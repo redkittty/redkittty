@@ -1,5 +1,10 @@
-#+TITLE: Envixty
+#+TITLE: Envixty's Profile
+
+
+[[https://github.com/redkittty/redkittty/blob/main/envixty.png
+]]
+* About
 
 This is Envixty's Github
 
-redkittty is an old username which I'm not changing
+The reason redkittty is my username is because it is an old username which I'm not changing because it changes all the URL's of my repos
