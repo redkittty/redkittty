@@ -1,6 +1,6 @@
 #+TITLE: Envixty's Profile
 
-[[https://github.com/redkittty/redkittty/blob/2b6e6ab0844f0f8f7c2d3000b2589948deedbe23/envixty.png]]
+[[https://github.com/redkittty/redkittty/blob/8fbd916b9353787f3255215d3b69a106d5d7efbd/envixty.png]]
 
 * About
 
