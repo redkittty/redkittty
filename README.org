@@ -1,8 +1,7 @@
 #+TITLE: Envixty's Profile
 
+[[https://github.com/redkittty/redkittty/blob/2b6e6ab0844f0f8f7c2d3000b2589948deedbe23/envixty.png]]
 
-[[https://github.com/redkittty/redkittty/blob/main/envixty.png
-]]
 * About
 
 This is Envixty's Github
