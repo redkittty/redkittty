@@ -6,7 +6,7 @@
 
 The main reason I have github is because I want to have a place to store configurations, maybe someday I will become a professional programmer. The reason redkittty is my username is because it is an old username which I'm not changing because it changes all the URL's of my repos* ✉️  You can contact me at [envixtymail@gmail.com](mailto:envixtymail@gmail.com)
 
-### Skills
+### Programs I use
 
 <p align="left">
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
