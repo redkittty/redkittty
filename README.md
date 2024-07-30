@@ -4,7 +4,9 @@
 👋 Hello, I am Envixty
 ========================
 
-The main reason I have github is because I want to have a place to store configurations, maybe someday I will become a professional programmer. The reason redkittty is my username is because it is an old username which I'm not changing because it changes all the URL's of my repos* ✉️  You can contact me at [envixtymail@gmail.com](mailto:envixtymail@gmail.com)
+The main reason I have github is because I want to have a place to store configurations, maybe someday I will become a professional programmer. The reason redkittty is my username is because it is an old username which I'm not changing because it changes all the URL's of my repos* 
+
+✉️  You can contact me at [envixtymail@gmail.com](mailto:envixtymail@gmail.com) (NOTE: I often don't check email)
 
 ### Programs I use
 
